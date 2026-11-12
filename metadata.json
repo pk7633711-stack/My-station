@@ -1,0 +1,6 @@
+{
+  "name": "MY STATION - Indian Railway Information & Travel Assistant",
+  "description": "Comprehensive Indian Railway passenger companion: Live train running status, PNR verification, seat availability, timetable, station facilities, fare calculator, and RailMadad helpline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
